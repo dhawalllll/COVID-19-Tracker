@@ -1,0 +1,26 @@
+[
+    {
+        "state": "Maharashtra",
+        "confirmed": 7972474,
+        "recovered": 7798817,
+        "deaths": 1479000
+    },
+    {
+        "state": "Kerala",
+        "confirmed": 6634722,
+        "recovered": 6535869,
+        "deaths": 700000
+    },
+    {
+        "state": "Karnataka",
+        "confirmed": 3968365,
+        "recovered": 3922541,
+        "deaths": 401000
+    },
+    {
+        "state": "Delhi",
+        "confirmed": 39873,
+        "recovered": 1441789,
+        "deaths": 25136
+    }
+]
